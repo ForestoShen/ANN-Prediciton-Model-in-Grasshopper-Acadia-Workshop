@@ -1,0 +1,6 @@
+(Requried) To install ladybug tools and Radiance, a full list of installation instructions for Windows and Mac can be found at:
+https://github.com/ladybug-tools/lbt-grasshopper/wiki
+
+
+(optional) To unstall MOO pulgin octopus:
+Put Octopus 0.4 folder in your grasshopper plugin folder. Restart Rhino if it's running.
