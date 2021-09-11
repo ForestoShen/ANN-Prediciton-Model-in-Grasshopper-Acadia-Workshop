@@ -1,5 +1,7 @@
 
 # Acadia Workshop: parse voxel data and simulate
+Make sure you installed ladybug tools and Radiance
+
 #### Download any EPW file from: https://www.ladybug.tools/epwmap/
 
 #### To install ladybug tools and Radiance, a full list of installation instructions for Windows and Mac can be found at:
