@@ -15,10 +15,14 @@ A cmd winodw will pop up and it'll take some tiem to start the server, once it's
 ![图片](https://user-images.githubusercontent.com/20478771/132944969-5c9dd5d5-740f-46af-b2de-83158891fd77.png)
 
 ## Acadia Workshop: parse voxel data and simulate
-Download any EPW file from: https://www.ladybug.tools/epwmap/
+#### Download any EPW file from: https://www.ladybug.tools/epwmap/
 
-To install ladybug tools and Radiance, a full list of installation instructions for Windows and Mac can be found at:
+#### To install ladybug tools and Radiance, a full list of installation instructions for Windows and Mac can be found at:
 https://github.com/ladybug-tools/lbt-grasshopper/wiki
 
-To unstall MOO pulgin octopus:
+
+#### Download Radiance here: https://github.com/LBNL-ETA/Radiance/releases/tag/012cb178
+
+
+#### To unstall MOO pulgin octopus:
 Put Octopus 0.4 folder in your grasshopper plugin folder. Restart Rhino if it's running.
