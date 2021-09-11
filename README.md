@@ -12,3 +12,5 @@ Once finished, simply open grasshopper file and click the button.
 A cmd winodw will pop up and it'll take some tiem to start the server, once it's done minimize the window and DO NOT CLOSE IT.
 ![图片](https://user-images.githubusercontent.com/20478771/132944969-5c9dd5d5-740f-46af-b2de-83158891fd77.png)
 
+## To parse voxel data download this
+https://drive.google.com/file/d/1DlAizc9AUJQ6POmeWW9WSd4iBx26BY1Q/view?usp=sharing
