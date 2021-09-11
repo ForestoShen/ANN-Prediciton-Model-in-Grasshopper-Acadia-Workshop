@@ -13,6 +13,7 @@ A cmd winodw will pop up and it'll take some tiem to start the server, once it's
 ![图片](https://user-images.githubusercontent.com/20478771/132944969-5c9dd5d5-740f-46af-b2de-83158891fd77.png)
 
 ## Acadia Workshop: parse voxel data and simulate
+Download any EPW file from: https://www.ladybug.tools/epwmap/
 To install ladybug tools and Radiance, a full list of installation instructions for Windows and Mac can be found at:
 https://github.com/ladybug-tools/lbt-grasshopper/wiki
 
